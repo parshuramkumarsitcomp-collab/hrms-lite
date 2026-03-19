@@ -126,12 +126,3 @@ Working with MongoDB and cloud databases
 
 Structuring scalable projects
 
-📌 Future Improvements
-
-Authentication (Admin login)
-
-Role-based access control
-
-Export reports (PDF/Excel)
-
-Leave management system
